@@ -80,6 +80,11 @@ header nav a:hover{
     transition: .3s ease all;
 }
 
+.botao a{
+    text-decoration: none;
+    color: white;
+}
+
 .botao:hover{
     background-color: white;
     color: black;
@@ -88,6 +93,7 @@ header nav a:hover{
 
 .botao i{
     margin-right: 10px;
+    
 }
 
 .container {
